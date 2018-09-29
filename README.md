@@ -4,7 +4,7 @@ Get workstation up and running with more reasonable settings
 
 
 
-'''bash
+```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 # install apps from homebrew #
@@ -107,4 +107,4 @@ sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.smb.serve
 
 #enable ssh:
 sudo systemsetup -setremotelogin on
-'''
+```
