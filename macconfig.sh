@@ -158,24 +158,23 @@ rm -rf /System/Library/Extensions/AppleIRController.kext
 
 
 # VSCODE Config:
-code --install-extension \
-dbaeumer.vscode-eslint \
-eamodio.gitlens \
-esbenp.prettier-vscode \
-hashicorp.terraform \
-ms-azuretools.vscode-docker  \
-ms-kubernetes-tools.vscode-kubernetes-tools \
-ms-python.python \
-ms-toolsai.jupyter \
-ms-vscode-remote.remote-containers \
-ms-vscode-remote.remote-wsl        \
-ms-vscode.cpptools \
-ms-vscode.vscode-typescript-next   \
-ms-vsliveshare.vsliveshare \
-shd101wyy\.markdown-preview-enhanced \
-TabNine.tabnine-vscode \
-dsznajder.es7-react-js-snippets \
-usernamehw.errorlens \
-vscode-icons \
-formulahendry.auto-rename-tag \
-streetsidesoftware.code-spell-checker
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
+code --install-extension hashicorp.terraform
+code --install-extension ms-azuretools.vscode-docker 
+code --install-extension ms-kubernetes-tools.vscode-kubernetes-tools
+code --install-extension ms-python.python
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension ms-vscode-remote.remote-wsl       
+code --install-extension ms-vscode.cpptools
+code --install-extension ms-vscode.vscode-typescript-next  
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension shd101wyy\.markdown-preview-enhanced
+code --install-extension TabNine.tabnine-vscode
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension usernamehw.errorlens
+code --install-extension vscode-icons
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension streetsidesoftware.code-spell-check
