@@ -91,6 +91,9 @@ rectangle signal slack stats the-unarchiver tunnelblick vagrant \
 virtualbox visual-studio-code vlc vmware-fusion wireshark zenmap \
 zoomus brightness
 
+## Hacking stuff
+brew install db-browser-for-sqlite
+
 #NPM
 npm install git-pair
 
