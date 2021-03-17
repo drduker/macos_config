@@ -178,3 +178,5 @@ code --install-extension usernamehw.errorlens
 code --install-extension vscode-icons
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension streetsidesoftware.code-spell-checker
+
+
