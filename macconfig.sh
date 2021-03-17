@@ -93,6 +93,9 @@ zoomus brightness
 
 ## Hacking stuff
 brew install db-browser-for-sqlite
+brew cask install db-browser-for-sqlite
+ brew cask install db-browser-for-sqlite
+ brew install libimobiledevice
 
 #NPM
 npm install git-pair
