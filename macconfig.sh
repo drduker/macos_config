@@ -186,3 +186,4 @@ code --install-extension formulahendry.auto-rename-tag
 code --install-extension streetsidesoftware.code-spell-checker
 
 
+# defaults write org.p0deje.Maccy historySize 10000
